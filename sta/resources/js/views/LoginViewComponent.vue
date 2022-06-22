@@ -1,7 +1,6 @@
+
 <template>
-    <v-app>
-        <v-btn small color="primary"> v-btn</v-btn>
-    </v-app>
+        <v-btn small color="primary">Login</v-btn>
 </template>
 
 <script>
